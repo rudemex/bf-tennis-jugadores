@@ -9,10 +9,16 @@ Instalar dependencias:
 npm install
 ```
 
-Modo desarrollo
+Modo desarrollo (consumiendo API Rest)
 
 ```sh
 npm run start
+```
+
+Modo Local Mock
+
+```sh
+npm run dev:mock
 ```
 
 Traspilar app
